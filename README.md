@@ -1,2 +1,2 @@
 # digital-wallet-Back-end
-Digital Wallet Back-end with Spring Boot and Java
+API REST utilizando Spring Boot, Java, en Postgresql.
